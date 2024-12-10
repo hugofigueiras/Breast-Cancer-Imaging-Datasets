@@ -29,12 +29,12 @@ Below is a histogram showing the number of datasets in each modality, and pie ch
 
 ### Ultrasound
 
-| Dataset                                 | Subjects | Nº Images | Data Type | Format | Size   | Year | Cite | Download |
-|------------------------------------------|----------|-----------|-----------|--------|--------|------|------|----------|
-| Breast Ultrasound Images Dataset (BUSI)  | 600      | 780       | Classification, Segmentation         |  PNG      |  204 MB      |   2020   | [Dataset of breast ultrasound images](https://www.sciencedirect.com/science/article/pii/S2352340919312181 "Link to paper")  |   [Download here](https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset_"Download_link")       |
-| Breast-Lesions-USG                       |          |           |           |        |        |      |      |          |
-| UDIAT Dataset                            |          |           |           |        |        |      |      |          |
-| OASBUD Dataset                           |          |           |           |        |        |      |      |          |
-| Ultrasound Breast Images for Breast Cancer |        |           |           |        |        |      |      |          |
-| BUS Synthetic Dataset                    |          |           |           |        |        |      |      |          |
+| Dataset                                 | Subjects | Nº Images |  Format | Size   | Year | Cite | Download |
+|------------------------------------------|----------|-----------|--------|--------|------|------|----------|
+| Breast Ultrasound Images (BUSI)  | 600      | 780        PNG      |  204MB      |   2020   | [Dataset of breast ultrasound images](https://www.sciencedirect.com/science/article/pii/S2352340919312181 "Link to paper")  |   [Download here](https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset_"Download_link")       |
+| Breast-Lesions-USG                       |  256        |   522        |   PNG     |  66.67MB      |   2024   |  [Curated benchmark dataset for ultrasound based breast lesion analysis](https://doi.org/10.1038/s41597-024-02984-z_"Link_to_paper")    |   [Download_here](https://www.cancerimagingarchive.net/collection/breast-lesions-usg/#citations_"Download_link")       |
+| UDIAT Dataset                            |          |           |       |        |      |      |          |
+| OASBUD Dataset                           |          |           |        |        |      |      |          |
+| Ultrasound Breast Images for Breast Cancer |        |           |        |        |      |      |          |
+| BUS Synthetic Dataset                    |          |           |        |        |      |      |          |
 
