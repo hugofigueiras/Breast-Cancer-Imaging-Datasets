@@ -25,14 +25,16 @@ Below is a histogram showing the number of datasets in each modality, and pie ch
   - [Histopathology](#histopathology)
 - [Contributing & Contact](#contributing--contact)
 
+## Datasets
+
 ### Ultrasound
 
-| Dataset                                 | Subjects | Nº Images | Data Type        | Size   | Year | Cite | Download |
-|------------------------------------------|----------|-----------|------------------|--------|------|------|----------|
-| Breast Ultrasound Images Dataset (BUSI)  |          |           |                  |        |      |      |          |
-| Breast-Lesions-USG                       |          |           |                  |        |      |      |          |
-| UDIAT Dataset                            |          |           |                  |        |      |      |          |
-| OASBUD Dataset                           |          |           |                  |        |      |      |          |
-| Ultrasound Breast Images for Breast Cancer |        |           |                  |        |      |      |          |
-| BUS Synthetic Dataset                    |          |           |                  |        |      |      |          |
+| Dataset                                 | Subjects | Nº Images | Data Type | Format | Size   | Year | Cite | Download |
+|------------------------------------------|----------|-----------|-----------|--------|--------|------|------|----------|
+| Breast Ultrasound Images Dataset (BUSI)  | 600      | 780       | Classification, Segmentation         |        |        |      |      |          |
+| Breast-Lesions-USG                       |          |           |           |        |        |      |      |          |
+| UDIAT Dataset                            |          |           |           |        |        |      |      |          |
+| OASBUD Dataset                           |          |           |           |        |        |      |      |          |
+| Ultrasound Breast Images for Breast Cancer |        |           |           |        |        |      |      |          |
+| BUS Synthetic Dataset                    |          |           |           |        |        |      |      |          |
 
