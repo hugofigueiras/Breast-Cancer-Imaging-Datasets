@@ -31,7 +31,8 @@ Below is a histogram showing the number of datasets in each modality, and pie ch
 
 | Dataset                                 | Subjects | Nº Images | Data Type | Format | Size   | Year | Cite | Download |
 |------------------------------------------|----------|-----------|-----------|--------|--------|------|------|----------|
-| Breast Ultrasound Images Dataset (BUSI)  | 600      | 780       | Classification, Segmentation         |        |        |      |      |          |
+| Breast Ultrasound Images Dataset (BUSI)  | 600      | 780       | Classification, Segmentation         |  PNG      |  204 MB      |   2020   | Dataset of breast ultrasound images[Link Text](https://www.sciencedirect.com/science/article/pii/S2352340919312181 "Link to paper")
+     |          |
 | Breast-Lesions-USG                       |          |           |           |        |        |      |      |          |
 | UDIAT Dataset                            |          |           |           |        |        |      |      |          |
 | OASBUD Dataset                           |          |           |           |        |        |      |      |          |
