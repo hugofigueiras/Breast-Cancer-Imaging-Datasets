@@ -16,6 +16,15 @@ Below is a histogram showing the number of datasets in each modality, and pie ch
 
 ![Pie Chart of Datasets Distribution](images/piechart.png "Pie Chart")
 
+## Table of Contents
+- [Datasets](#datasets)
+  - [Ultrasound](#ultrasound)
+  - [Digital Breast Tomosynthesis (DBT)](#digital-breast-tomosynthesis-dbt)
+  - [Mammography](#mammography)
+  - [MRI](#mri)
+  - [Histopathology](#histopathology)
+- [Contributing & Contact](#contributing--contact)
+
 ### Ultrasound
 
 | Dataset                                 | Subjects | Nº Images | Data Type        | Size   | Year | Cite | Download |
@@ -27,12 +36,3 @@ Below is a histogram showing the number of datasets in each modality, and pie ch
 | Ultrasound Breast Images for Breast Cancer |        |           |                  |        |      |      |          |
 | BUS Synthetic Dataset                    |          |           |                  |        |      |      |          |
 
-
-## Table of Contents
-- [Datasets](#datasets)
-  - [Ultrasound](#ultrasound)
-  - [Digital Breast Tomosynthesis (DBT)](#digital-breast-tomosynthesis-dbt)
-  - [Mammography](#mammography)
-  - [MRI](#mri)
-  - [Histopathology](#histopathology)
-- [Contributing & Contact](#contributing--contact)
