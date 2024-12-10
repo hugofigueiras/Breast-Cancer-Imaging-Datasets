@@ -14,12 +14,22 @@ Below is a histogram showing the number of datasets in each modality, and pie ch
 
 **Pie Chart of Datasets Distribution by Modality:**
 
-![Pie Chart of Datasets Distribution](images/pie_chart.png "Pie Chart")
+![Pie Chart of Datasets Distribution](images/piechart.png "Pie Chart")
+
+### Ultrasound
+
+| Dataset                                 | Subjects | Nº Images | Data Type        | Size   | Year | Cite | Download |
+|------------------------------------------|----------|-----------|------------------|--------|------|------|----------|
+| Breast Ultrasound Images Dataset (BUSI)  |          |           |                  |        |      |      |          |
+| Breast-Lesions-USG                       |          |           |                  |        |      |      |          |
+| UDIAT Dataset                            |          |           |                  |        |      |      |          |
+| OASBUD Dataset                           |          |           |                  |        |      |      |          |
+| Ultrasound Breast Images for Breast Cancer |        |           |                  |        |      |      |          |
+| BUS Synthetic Dataset                    |          |           |                  |        |      |      |          |
 
 
 ## Table of Contents
-- [Use Cases](#use-cases)
-- [Datasets by Modality](#datasets-by-modality)
+- [Datasets](#datasets)
   - [Ultrasound](#ultrasound)
   - [Digital Breast Tomosynthesis (DBT)](#digital-breast-tomosynthesis-dbt)
   - [Mammography](#mammography)
