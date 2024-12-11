@@ -4,7 +4,7 @@ If you know any more datasets, and want to contribute, please submit a pull requ
 
 ## Introduction
 
-This repository provides a curated list of breast imaging and histopathology datasets, aiming to streamline access for researchers, clinicians, and students. Here, the datasets are separated by each modality for easier understanding. This repository is composed of 47 publicly available datasets.
+This repository provides a curated list of breast imaging and histopathology datasets, aiming to streamline access for researchers, clinicians, and students. Here, the datasets are separated by each modality for easier understanding. This repository is composed of 35 publicly available datasets.
 
 Below is a histogram showing the number of datasets in each modality, and pie chart representations that visualize the distribution of datasets by modality.
 
