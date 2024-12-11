@@ -37,6 +37,14 @@ Below is a histogram showing the number of datasets in each modality, and pie ch
 | OASBUD                           |     78     |    200       |  Matlab      |    296.8MB    |  2017    |  [Open access database of raw ultrasonic signals acquired from malignant and benign breast lesions](https://doi.org/10.1002/mp.12538_"Link_to_paper")    |   [Downnload here](https://zenodo.org/records/545928_"Download_link")       |
 | BUS Synthetic Dataset                    |    0      |   500        |  PNG      |   9.7MB     |   2023   |  [PDF-UNet: A semi-supervised method for segmentation of breast tumor images using a U-shaped pyramid-dilated network](https://doi.org/10.1016/j.eswa.2023.119718_"Link_to_paper")    |    [Download here](https://data.mendeley.com/datasets/r4phtn49r7/1_"Download_link")      |
 
+**Summaries:**
+
+- **BUSI:** Small (around 500×500 px) ultrasound images suitable for classification of benign vs. malignant lesions and segmentation tasks.
+- **Breast Lesions USG:** Ultrasound images capturing various lesions; ideal for lesion detection, classification, and segmentation.
+- **UDIAT Dataset B:** Ultrasound scans for lesion analysis; can be used to develop detection and classification methods.
+- **OASBUD:** Provides raw ultrasound signals, enabling advanced signal processing, segmentation, and classification methods.
+- **BUS Synthetic Dataset:** Synthetic ultrasound images generated for model training and data augmentation, useful in classification and segmentation tasks.
+
 ### Digital Breast Tomosynthesis (DBT)
 
 | Dataset                        | Subjects | Nº Samples | Format | Size | Year | Cite | Download |
