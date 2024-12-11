@@ -10,7 +10,7 @@ Below is a histogram showing the number of datasets in each modality, and pie ch
 
 **Histogram of Datasets by Modality:**
 
-![Histogram of Datasets by Modality](images/histogram.png "Histogram")
+![Histogram of Datasets by Modality](images/histogram_with_values.png "Histogram")
 
 **Pie Chart of Datasets Distribution by Modality:**
 
