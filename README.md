@@ -50,9 +50,8 @@ Below is a histogram showing the number of datasets in each modality, and pie ch
 | Dataset                           | Subjects | Nº Samples | Format | Size | Year | Cite | Download |
 |-----------------------------------|----------|-----------|--------|------|------|------|----------|
 | CBIS-DDSM                         | 1566         |  6 671          |   DICOM     |  161.51GB    |  2017    | [A curated mammography data set for use in computer-aided detection and diagnosis research](https://www.nature.com/articles/sdata2017177)     |   [Download here](https://www.cancerimagingarchive.net/collection/cbis-ddsm/)       |
-| BCSC Digital Mammography Dataset  |          |           |        |      |      |      |          |
-| CMMD                              |          |           |        |      |      |      |          |
-| CDD-CESM                          |          |           |        |      |      |      |          |
+| CMMD                              |  1775        |    3 728       |  DICOM      |  2021    |  22.86GB    |  [The Chinese Mammography Database (CMMD): An online mammography database with biopsy confirmed types for machine diagnosis of breast](https://doi.org/10.7937/tcia.eqde-4b16)    |  [Download here](https://doi.org/10.7937/tcia.eqde-4b16)        |
+| CDD-CESM                          |  326        |    2 006       |   JPEG     |   1.5GB   |  2021    |  [Categorized Digital Database for Low energy and Subtracted Contrast Enhanced Spectral Mammography images (Dataset)](https://doi.org/10.7937/29kw-ae92), [Categorized contrast enhanced mammography dataset for diagnostic and artificial intelligence research](https://www.nature.com/articles/s41597-022-01238-0), [The Cancer Imaging Archive (TCIA): Maintaining and Operating a Public Information Repository](https://link.springer.com/article/10.1007/s10278-013-9622-7)    |   [Download here](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=109379611#109379611bcab02c187174a288dbcbf95d26179e8)       |
 | VinDr-Mammo                       |          |           |        |      |      |      |          |
 | INBreast                          |          |           |        |      |      |      |          |
 | MIAS                              |          |           |        |      |      |      |          |
