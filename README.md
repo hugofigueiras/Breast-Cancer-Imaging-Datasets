@@ -53,6 +53,13 @@ Below is a histogram showing the number of datasets in each modality, and pie ch
 | EA1141       |   1444       |   500        |  DICOM      |   2.82TB   |  2023    | [Abbreviated Breast MRI and Digital Tomosynthesis Mammography in Screening Women With Dense Breasts (EA1141) (Version 1) (dataset)](https://doi.org/10.7937/2BAS-HR33)     |  [Download here](https://doi.org/10.7937/2BAS-HR33_"Download_link")        |
 | VICTRE      |   2994       |    2994       |   DICOM     | 1.03TB     |  2019    | [The VICTRE Trial: Open-Source, In-Silico Clinical Trial for Evaluating Digital Breast Tomosynthesis](http://doi.org/10.7937/TCIA.2019.ho23nxaw)     |   [Download here](http://doi.org/10.7937/TCIA.2019.ho23nxaw_"Download_link")       |
 
+**Summaries:**
+
+- **Breast Cancer Screening DBT:** High-resolution DBT volumes suitable for lesion detection and 3D reconstruction tasks.
+- **EA1141:** High-quality DBT data, also associated with abbreviated MRI; supports multimodal analysis, lesion detection, and screening optimization.
+- **VICTRE:** Simulated DBT data for evaluating algorithms in a controlled setting, useful for CAD development and comparative studies.
+
+
 ### Mammography
 
 | Dataset                           | Subjects | Nº Samples | Format | Size | Year | Cite | Download |
@@ -64,6 +71,16 @@ Below is a histogram showing the number of datasets in each modality, and pie ch
 | INBreast                          |    115       |    410       | N/a        |  N/A    |  2012    |  [INbreast: toward a full-field digital mammographic database](https://pubmed.ncbi.nlm.nih.gov/22078258/)    | [Contact the authors](https://pubmed.ncbi.nlm.nih.gov/22078258/)         |
 | MIAS                              |    N/A      |     322      |   PGM     |   1.5GB   | 2015     |  [Mammographic Image Analysis Society (MIAS) database v1.21](https://www.repository.cam.ac.uk/items/b6a97f0c-3b9b-40ad-8f18-3d121eef1459)    |  [Download here](https://www.repository.cam.ac.uk/items/b6a97f0c-3b9b-40ad-8f18-3d121eef1459)        |
 | Breast Tumor Mammography Dataset for Computer Vision                           |   N/A      |  3 383         |   JPG     |  103.49MB    |  2024    |  N/A    |    [Download here](https://www.kaggle.com/datasets/hayder17/breast-cancer-detection)      |
+
+**Summaries:**
+
+- **CBIS-DDSM:** A large set of annotated mammograms, excellent for classification, detection of calcifications, and mass segmentation tasks.
+- **CMMD:** Mammograms from a Chinese cohort, useful for cross-population studies, lesion detection, and classification.
+- **CDD-CESM:** Contrast-enhanced spectral mammography images supporting advanced analysis of vascularized lesions, aiding classification and differentiation tasks.
+- **VinDr-Mammo:** Large-scale dataset with diverse annotations for robust AI model training in detection and classification.
+- **INBreast:** High-quality full-field digital mammograms with detailed annotations, ideal for algorithm benchmarking.
+- **MIAS:** Classic mammography dataset widely used for initial model training, testing basic classification and detection algorithms.
+- **Breast Tumor Mammography Dataset:** A smaller dataset well-suited for entry-level experiments in tumor detection and basic classification.
 
 
 ### MRI
@@ -83,6 +100,17 @@ Below is a histogram showing the number of datasets in each modality, and pie ch
 | Advanced MRI Breast Lesions  |   632       |    632       |    DICOM    | 646GB     |   2024   |  [Standard and Delayed Contrast-Enhanced MRI of Malignant and Benign Breast Lesions with Histological and Clinical Supporting Data (Advanced-MRI-Breast-Lesions) (Version 2) (dataset)](https://doi.org/10.7937/C7X1-YN57)    |  [Download here](https://www.cancerimagingarchive.net/collection/advanced-mri-breast-lesions/)        |
 | BREAST DIAGNOSIS             |     88     |   88        |   DICOM     |  60.87GB    | 2011     |  [ BREAST-DIAGNOSIS (Data set)](http://doi.org/10.7937/K9/TCIA.2015.SDNRQXXR)    |    [Download here](https://www.cancerimagingarchive.net/collection/breast-diagnosis/)      |
 
+**Summaries:**
+
+- **ACRIN-6667 & ACRIN-6698:** Rich MRI datasets for assessing neoadjuvant chemotherapy response, ideal for detection, segmentation of lesions, and longitudinal analysis.
+- **ISPY1 & ISPY2:** Multiparametric MRI for evaluating early response to therapy; supports predictive modeling, segmentation, and classification of treatment outcomes.
+- **Duke Breast Cancer MRI:** High-quality DCE-MRI scans enabling lesion characterization, radiogenomics analysis, and segmentation tasks.
+- **Breast Cancer Patients MRI’s:** JPG-format MRI slices suited for basic classification and proof-of-concept tasks.
+- **Breast MRI NACT Pilot:** Focused on patients undergoing neoadjuvant chemotherapy, enabling treatment response analysis and lesion segmentation.
+- **QIN (Breast DCE-MRI, QIN-BREAST, QIN-BREAST-02):** Small, high-quality sets for benchmarking quantitative imaging biomarkers, segmentation, and modeling treatment response.
+- **Advanced MRI Breast Lesions:** Large, detailed dataset for evaluating complex MRI models, including advanced lesion segmentation and classification.
+- **BREAST DIAGNOSIS:** DCE-MRI aimed at diagnostic feature extraction, supporting classification and lesion characterization tasks.
+
 ### Histopathology
 
 | Dataset                          | Subjects | Nº Samples| Format | Size | Year | Cite | Download |
@@ -96,13 +124,22 @@ Below is a histogram showing the number of datasets in each modality, and pie ch
 | CAMELYON                         |   200       |    1 399       | TIFF       |  N/A    |  2018    |  [1399 H&E-stained sentinel lymph node sections of breast cancer patients: the CAMELYON dataset](https://pmc.ncbi.nlm.nih.gov/articles/PMC6007545/)    |  [Download here](https://camelyon17.grand-challenge.org/Data/)        |
 | BACH                             |    N/A      |     400      |   SVS & TIFF     |    18.23GB  |  2022    |  [Bach: Grand challenge on breast cancer histology images](https://arxiv.org/abs/1808.04277)    | [Download here](https://www.kaggle.com/datasets/truthisneverlinear/bach-breast-cancer-histology-images)         |
 
+**Summaries:**
+
+- **Post NAT BRCA:** High-resolution WSIs post-neoadjuvant therapy, ideal for quantifying residual disease, segmentation, and treatment response analysis.
+- **Breast Histopathology Images:** Smaller PNG patches well-suited for basic classification and validation of histopathology models.
+- **BreakHis:** Large-scale histopathology dataset, excellent for classification and detection of tumor subtypes at various magnifications.
+- **Breast Cancer Cell Segmentation:** Focused on cell-level segmentation tasks, useful for training models that identify and count cells in tissues.
+- **BCSS:** Annotated crowdsourced dataset enabling segmentation and classification tasks at the tissue level.
+- **TUPAC16:** Whole-slide images for quantifying tumor proliferation; used in classification and mitosis detection challenges.
+- **CAMELYON:** WSIs for lymph node metastasis detection and segmentation tasks.
+- **BACH:** Balanced dataset of four histopathological classes (normal, benign, in situ, invasive) suitable for classification and region-of-interest detection.
+
+
 ## Contributing & Contact
 
 - **Contributions:**  
   Suggestions for new datasets, updates, or corrections are welcome. Please open an issue or submit a pull request.
 
 - **Contact:**  
-  For specific dataset access, follow the provided links or contact dataset maintainers directly. For repository-related questions, use the issue tracker.
-
-
- 
+  For specific dataset access, follow the provided links or contact dataset maintainers directly.  For repository-related questions or inquiries, feel free to email me at [hmfigueiras@fc.ul.pt](mailto:hmfigueiras@fc.ul.pt).
