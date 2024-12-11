@@ -52,9 +52,34 @@ Below is a histogram showing the number of datasets in each modality, and pie ch
 | CBIS-DDSM                         | 1566         |  6 671          |   DICOM     |  161.51GB    |  2017    | [A curated mammography data set for use in computer-aided detection and diagnosis research](https://www.nature.com/articles/sdata2017177)     |   [Download here](https://www.cancerimagingarchive.net/collection/cbis-ddsm/)       |
 | CMMD                              |  1775        |    3 728       |  DICOM      |  2021    |  22.86GB    |  [The Chinese Mammography Database (CMMD): An online mammography database with biopsy confirmed types for machine diagnosis of breast](https://doi.org/10.7937/tcia.eqde-4b16)    |  [Download here](https://doi.org/10.7937/tcia.eqde-4b16)        |
 | CDD-CESM                          |  326        |    2 006       |   JPEG     |   1.5GB   |  2021    |  [Categorized Digital Database for Low energy and Subtracted Contrast Enhanced Spectral Mammography images (Dataset)](https://doi.org/10.7937/29kw-ae92), [Categorized contrast enhanced mammography dataset for diagnostic and artificial intelligence research](https://www.nature.com/articles/s41597-022-01238-0), [The Cancer Imaging Archive (TCIA): Maintaining and Operating a Public Information Repository](https://link.springer.com/article/10.1007/s10278-013-9622-7)    |   [Download here](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=109379611#109379611bcab02c187174a288dbcbf95d26179e8)       |
-| VinDr-Mammo                       |          |           |        |      |      |      |          |
-| INBreast                          |          |           |        |      |      |      |          |
-| MIAS                              |          |           |        |      |      |      |          |
+| VinDr-Mammo                       |   5000       | 20 0000          |   DICOM     |  N/A    |  2022    |  [A large-scale benchmark dataset for computer-aided diagnosis in full-field digital mammography”](https://www.medrxiv.org/content/10.1101/2022.03.07.22272009v1)    |  [Download here](https://www.physionet.org/content/vindr-mammo/1.0.0/)         |
+| INBreast                          |    115       |    410       | N/a        |  N/A    |  2012    |  [INbreast: toward a full-field digital mammographic database
+](https://pubmed.ncbi.nlm.nih.gov/22078258/)    | [Contact the authors](https://pubmed.ncbi.nlm.nih.gov/22078258/)         |
+| MIAS                              |    N/A      |     322      |   PGM     |   1.5GB   | 2015     |  [Mammographic Image Analysis Society (MIAS) database v1.21](https://www.repository.cam.ac.uk/items/b6a97f0c-3b9b-40ad-8f18-3d121eef1459)    |  [Download here](https://www.repository.cam.ac.uk/items/b6a97f0c-3b9b-40ad-8f18-3d121eef1459)        |
+| Breast Tumor Mammography Dataset for Computer Vision                           |   N/A      |  3 383         |   JPG     |  103.49MB    |  2024    |  N/A    |    [Download here](https://www.kaggle.com/datasets/hayder17/breast-cancer-detection)      |
+
+
+### MRI
+
+| Dataset                      | Subjects | Nº Images | Format | Size | Year | Cite | Download |
+|------------------------------|----------|-----------|--------|------|------|------|----------|
+| RIDER Breast MRI             |          |           |        |      |      |      |          |
+| fastMRI                      |          |           |        |      |      |      |          |
+| ACRIN - 667                  |          |           |        |      |      |      |          |
+| ACRIN-6698                   |          |           |        |      |      |      |          |
+| ISPY1                        |          |           |        |      |      |      |          |
+| ISPY2                        |          |           |        |      |      |      |          |
+| Duke-Breast-Cancer-MRI       |          |           |        |      |      |      |          |
+| Breast Cancer Patients MRI's |          |           |        |      |      |      |          |
+| TCGA-Breast-Radiogenomics    |          |           |        |      |      |      |          |
+| DICOM-SR-Breast-Clinical     |          |           |        |      |      |      |          |
+| Breast-MRI-NACT-Pilot        |          |           |        |      |      |      |          |
+| QIN Breast DCE-MRI           |          |           |        |      |      |      |          |
+| QIN-BREAST                   |          |           |        |      |      |      |          |
+| QIN-BREAST-02                |          |           |        |      |      |      |          |
+| Advanced-MRI-Breast-Lesions  |          |           |        |      |      |      |          |
+| RIDER PHANTOM MRI            |          |           |        |      |      |      |          |
+| BREAST-DIAGNOSIS             |          |           |        |      |      |      |          |
 
 
 
